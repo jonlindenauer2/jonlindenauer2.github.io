@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Jon Lindenauer
-tagline:             A Moderately Okay Data Science Blog
+tagline:             A Statisticians Data Science Blog
 url:                 http://jonlindenauer2.github.io
 paginate:            2
 baseurl:             ""
@@ -32,7 +32,7 @@ gems:
   - jekyll-gist
 
 # Page List
-pages_list:       
+pages_list:
   About: '/about'
   Archive: '/archive'
   Feed: '/index.html'
